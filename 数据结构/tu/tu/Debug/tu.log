@@ -1,0 +1,12 @@
+﻿  tu.cpp
+c:\users\asus\source\repos\tu\tu\tu.cpp(12): error C2365: “y0”: 重定义；以前的定义是“函数”
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math.h(984): note: 参见“y0”的声明
+c:\users\asus\source\repos\tu\tu\tu.cpp(14): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\asus\source\repos\tu\tu\tu.cpp(19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\tu\tu\tu.cpp(19): error C2296: “-”: 非法，左操作数包含“double (__cdecl *)(double)”类型
+c:\users\asus\source\repos\tu\tu\tu.cpp(20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\tu\tu\tu.cpp(21): error C2296: “-”: 非法，左操作数包含“double (__cdecl *)(double)”类型
+c:\users\asus\source\repos\tu\tu\tu.cpp(23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\tu\tu\tu.cpp(24): warning C4552: ”+“: 未使用表达式结果
+c:\users\asus\source\repos\tu\tu\tu.cpp(25): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\asus\source\repos\tu\tu\tu.cpp(25): error C2296: “-”: 非法，左操作数包含“double (__cdecl *)(double)”类型

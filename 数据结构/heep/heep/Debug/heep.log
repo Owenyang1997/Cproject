@@ -1,0 +1,6 @@
+﻿  heep.cpp
+g:\数据结构代码\数据结构\heep\heep\heep.h(76): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+g:\数据结构代码\数据结构\heep\heep\heep.h(78): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+g:\数据结构代码\数据结构\heep\heep\heep.h(82): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\数据结构代码\数据结构\heep\heep\heep.cpp(7): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  heep.vcxproj -> G:\数据结构代码\数据结构\heep\Debug\heep.exe

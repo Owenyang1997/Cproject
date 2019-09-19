@@ -1,0 +1,17 @@
+﻿  ConsoleApplication3.cpp
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(20): error C2039: “cout”: 不是“std”的成员
+  c:\users\asus\source\repos\consoleapplication3\consoleapplication3\predefined c++ types (compiler internal)(208): note: 参见“std”的声明
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(20): error C2065: “cout”: 未声明的标识符
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(20): error C2065: “endl”: 未声明的标识符
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(24): error C2039: “cout”: 不是“std”的成员
+  c:\users\asus\source\repos\consoleapplication3\consoleapplication3\predefined c++ types (compiler internal)(208): note: 参见“std”的声明
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(24): error C2065: “cout”: 未声明的标识符
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(24): error C2065: “endl”: 未声明的标识符
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(35): error C2039: “cout”: 不是“std”的成员
+  c:\users\asus\source\repos\consoleapplication3\consoleapplication3\predefined c++ types (compiler internal)(208): note: 参见“std”的声明
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(35): error C2065: “cout”: 未声明的标识符
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(35): error C2065: “endl”: 未声明的标识符
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(39): error C2039: “cout”: 不是“std”的成员
+  c:\users\asus\source\repos\consoleapplication3\consoleapplication3\predefined c++ types (compiler internal)(208): note: 参见“std”的声明
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(39): error C2065: “cout”: 未声明的标识符
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(44): warning C4305: “参数”: 从“double”到“float”截断

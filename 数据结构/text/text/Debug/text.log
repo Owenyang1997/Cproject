@@ -1,0 +1,10 @@
+﻿  text.cpp
+c:\users\asus\source\repos\text\text\text.cpp(19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\asus\source\repos\text\text\text.cpp(20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\asus\source\repos\text\text\text.cpp(25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\asus\source\repos\text\text\text.cpp(26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\asus\source\repos\text\text\text.cpp(32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\asus\source\repos\text\text\text.cpp(33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\asus\source\repos\text\text\text.cpp(38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\asus\source\repos\text\text\text.cpp(39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\asus\source\repos\text\text\text.cpp(9): error C4716: “f”: 必须返回一个值
